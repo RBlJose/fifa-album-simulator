@@ -41,7 +41,7 @@ fifa-album-simulator/
 │
 ├── fifa_album_analysis.ipynb    # Main notebook — full analysis
 ├── dashboard/
-│   └── fifa_album_v9.jsx        # Interactive React dashboard
+│   └── fifa_album.jsx        # Interactive React dashboard
 ├── figures/
 │   ├── fig1_marginal_cost.png   # Marginal cost per new sticker
 │   ├── fig2_dynamics.png        # Unique vs duplicate dynamics
