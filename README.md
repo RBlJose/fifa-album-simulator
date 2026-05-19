@@ -120,7 +120,7 @@ The interactive React dashboard (available on Claude.ai) lets you:
 ## Setup
 
 ```bash
-git clone https://github.com/TU_USUARIO/fifa-album-simulator
+git clone https://github.com/RBlJose/fifa-album-simulator
 cd fifa-album-simulator
 pip install -r requirements.txt
 jupyter notebook fifa_album_analysis.ipynb
